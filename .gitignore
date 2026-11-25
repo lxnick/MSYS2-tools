@@ -1,0 +1,7 @@
+# build outputs
+*.o
+*.exe
+# capture / analysis data (large, not source)
+*.csv
+*.dmslog*
+dump*.txt
